@@ -1,0 +1,7 @@
+selectChannel=@rayleigh_EsN0;
+ChannelParameter.EsN0=0;			%Signal to Noise Ratio
+ChannelParameter.state=-1;			%state of channel
+%ChannelParameter.Bch=2000000;			%Channel Bandwidth in bps
+%ChannelParameter.Nch=2400;			%required packet size
+ChannelParameter.gain=0;			%power gain
+ChannelParameter.fm=84;				%Maximum Doppler frequency
